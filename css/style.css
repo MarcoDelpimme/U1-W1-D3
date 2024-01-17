@@ -1,0 +1,98 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .logo {
+    text-align: center;
+    margin-inline: auto;
+    font-size: medium;
+  }
+
+  #imglogo {
+    width: 16rem;
+  }
+
+  .sottologo {
+    text-align: center;
+    margin-inline:auto;
+    border-top: solid #ffa500ad;
+    border-top-width: 0.1px;
+    background-color: #ffb3082e;
+
+  }
+
+  .describe {
+
+    text-align: center;
+
+  }
+
+  .first-title {
+
+    text-align: center;
+
+  }
+
+  .didasc {
+ 
+text-align: left;
+width: 100vh;
+margin-inline: auto;
+max-width: 100%;
+
+  }
+
+  #imgfocaccia{
+
+    border-radius: 20px;
+    margin-bottom: 14px;
+    display: block;
+    width: 100%;
+  }
+
+  #maincontent {
+    margin-inline: auto;
+    width: 50%;
+  }
+
+  .feature {
+    background-color:#ffffff;
+    border-left: solid 2.5px;
+    padding-left: 15px;
+    border-left-color: rgb(248, 206, 128);
+  }
+
+  .titleingredient {
+    margin-top: 50px;
+    border-bottom: solid lightblue;
+    
+  }
+
+  .ingredient {
+    width: 50%;
+    margin-inline: auto;
+  }
+
+  .namelist1{
+    margin-top: 30px;
+  }
+
+
+  .method {
+    border-bottom: solid lightblue;
+    padding-bottom: 20px;
+  }
+
+  li {
+    padding:0.5rem
+  }
+
+  footer {
+
+    margin-inline: auto;
+    width: 50%;
+
+  }
